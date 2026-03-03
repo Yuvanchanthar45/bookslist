@@ -40,14 +40,12 @@ lib/
 
 ---
 
-## Screenshot
 
-> _Add a screenshot of the app running on your device or emulator below._
 
-![App Screenshot](screenshots/app_screenshot.png)
+## App Screenshots
 
----
-
+![Home Screen](screenshots/app_home.png)
+![Book List](screenshots/book_list.png)
 ## Getting Started
 
 ### Prerequisites
